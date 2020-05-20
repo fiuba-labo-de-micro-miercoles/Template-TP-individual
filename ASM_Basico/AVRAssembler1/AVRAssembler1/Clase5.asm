@@ -8,6 +8,8 @@
  *   Author: Fabricio Baglivo
 */
 
+// 2020/05/20 - PIMartos: Revisado, esta OK
+
 .EQU TAMANIO_TABLA = 1 
  
 .DSEG
