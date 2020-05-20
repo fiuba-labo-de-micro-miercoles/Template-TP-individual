@@ -1,0 +1,5 @@
+
+AVRASM ver. 2.1.51  C:\Users\Fabri\Documents\FIUBA\6609\2020\ASM_Basico\AVRAssembler1\AVRAssembler1\AVRAssembler1.asm Wed May 13 21:04:53 2020
+
+[builtin](2): Including file 'C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m328pdef.inc'
+C:\Users\Fabri\Documents\FIUBA\6609\2020\ASM_Basico\AVRAssembler1\AVRAssembler1\AVRAssembler1.asm(92): error: syntax error, unexpected REGISTER
